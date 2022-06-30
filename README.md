@@ -1,3 +1,3 @@
 # tic-tac-toe
-tic tac toe game with React 
+tic tac toe game for telephone with React 
 
